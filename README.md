@@ -1,5 +1,5 @@
 # fluxo DIA 06/02/2026
-# MVP **=>** 'competências" SAEP
+# MVP **=>** 'competências' SAEP
 # Princípios Ferramentas **=>** Software Eng
 ## Avaliação 'diagnóstica' nas atividades
 
